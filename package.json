@@ -1,0 +1,19 @@
+{
+  "name": "@isaac4577/npm-package-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac4577/npm-package-sample.git"
+  },
+  "author": "Takumi Ishihara <donttreadonme4577@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac4577/npm-package-sample/issues"
+  },
+  "homepage": "https://github.com/isaac4577/npm-package-sample#readme"
+}
